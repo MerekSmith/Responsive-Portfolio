@@ -319,16 +319,16 @@ input {
     50%  {left:0px;}
     75%  {left:190px;}
     100% {left:0px;}
-}
+	}
 
-/* Standard syntax */
-@keyframes headerAnimation {
+	/* Standard syntax */
+	@keyframes headerAnimation {
     0%   {left:0px;}
     25%  {left:190px;}
     50%  {left:0px;}
     75%  {left:190px;}
     100% {left:0px;}
-}
+	}
 
 }
 
